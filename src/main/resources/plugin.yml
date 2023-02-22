@@ -1,0 +1,6 @@
+name: ZeroAFKHub
+version: '${project.version}'
+main: zeromc.next.plugins.zeroafkhub.ZeroAFKHub
+api-version: 1.19
+load: STARTUP
+authors: [ Next ]

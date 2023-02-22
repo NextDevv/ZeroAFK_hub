@@ -1,0 +1,14 @@
+afk-settings:
+  afk-world: world
+  tp-back: true
+  log: false # Sto fixando dei problemi
+  afk-title:
+    header: "&eSei AFK"
+    footer: "&fSe ti muovi verrai portato indietro"
+
+database: # Bisogna avere le credenziali del database se vuoi che il plugin funzioni
+  host: localhost
+  port: 5432
+  user: root
+  password: ""
+  database: "ZeroAFK"
